@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Semester 1",
+        "path": "subjects"
+    },
+    {
+        "id": 2,
+        "name": "Semester 2",
+        "path": null
+    },
+    {
+        "id": 3,
+        "name": "Semester 3",
+        "path": null
+    },
+    {
+        "id": 4,
+        "name": "Semester 4",
+        "path": null
+    },
+    {
+        "id": 5,
+        "name": "Semester 5",
+        "path": null
+    },
+    {
+        "id": 6,
+        "name": "Semester 6",
+        "path": null
+    },
+    {
+        "id": 7,
+        "name": "Semester 7",
+        "path": null
+    },
+    {
+        "id": 8,
+        "name": "Semester 8",
+        "path": null
+    }
+]

@@ -1,0 +1,15 @@
+# robots.txt for HWN — Hand Written Notes
+# https://yourusername.github.io/hwn/
+
+User-agent: *
+Allow: /
+
+# Block nothing — it's a public study resource hub.
+# If you ever add an /admin or /upload route, disallow it here:
+# Disallow: /admin/
+
+# Crawl-delay is respected by some bots (not Google). Keeps things polite.
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://amitmaurya270708.github.io/HWN/sitemap.xml
