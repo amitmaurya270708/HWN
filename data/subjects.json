@@ -6,22 +6,22 @@
             "path": "/units/sem1_unit"
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "Chemistry",
-            "path": null
+            "path": "/units/wateranalysis"
         },
         {
-            "id": 1,
+            "id": 3,
             "name": "Basic Electrical & Electronics Engineering (BEEE)",
             "path": null
         },
         {
-            "id": 1,
+            "id": 4,
             "name": "Engineering Drawing (ED)",
             "path": null
         },
         {
-            "id": 1,
+            "id": 5,
             "name": "English",
             "path": null
         }

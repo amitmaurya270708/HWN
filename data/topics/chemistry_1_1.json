@@ -1,0 +1,10 @@
+{
+    "1": [
+        {
+            "id": 1,
+            "name": "chem_1_1",
+            "type": "pdf",
+            "file": "/public/data/raw/chemistry_1_1.pdf"
+        }
+    ]
+}
