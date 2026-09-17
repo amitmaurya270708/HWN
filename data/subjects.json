@@ -3,25 +3,25 @@
         {
             "id": 1,
             "name": "Maths-1",
-            "path": "/units/sem1_unit"
+            "path": null
         },
         {
-            "id": 2,
+            "id": 1,
             "name": "Chemistry",
             "path": "/units/wateranalysis"
         },
         {
-            "id": 3,
+            "id": 1,
             "name": "Basic Electrical & Electronics Engineering (BEEE)",
             "path": null
         },
         {
-            "id": 4,
+            "id": 1,
             "name": "Engineering Drawing (ED)",
             "path": null
         },
         {
-            "id": 5,
+            "id": 1,
             "name": "English",
             "path": null
         }

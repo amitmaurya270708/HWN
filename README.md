@@ -3,7 +3,7 @@
 A clean, browser-friendly **B.Tech study resource hub** for organizing and accessing handwritten notes.
 
 
-[![Live Website](https://img.shields.io/badge/Live-Website-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://amitmaurya270708.github.io/HWN/)
+[![Live Website](https://img.shields.io/badge/Live-Website-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://engineeringhwn.netlify.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Made for Students](https://img.shields.io/badge/Made_for-Students-blueviolet?style=for-the-badge&logo=readthedocs&logoColor=white)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=git&logoColor=white)](CONTRIBUTING.md)
@@ -98,7 +98,7 @@ Copyright © 2026 Amit Maurya.
 
 - GitHub: https://github.com/AmitMaurya270708
 - Project: https://github.com/AmitMaurya270708/HWN
-- Live site: https://amitmaurya270708.github.io/HWN/
+- Live site: https://engineeringhwn.netlify.app/
 
 ---
 
