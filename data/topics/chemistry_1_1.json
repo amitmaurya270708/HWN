@@ -5,6 +5,12 @@
             "name": "chem_1_1",
             "type": "pdf",
             "file": "/public/data/raw/chemistry_1_1.pdf"
+        },
+        {
+            "id": 2,
+            "name": "chem_1_2",
+            "type": "pdf",
+            "file": "/public/data/raw/chemistry_1_2.pdf"
         }
     ]
 }
